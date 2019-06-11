@@ -1,0 +1,12 @@
+inherited Form2_iPhone55in: TForm2_iPhone55in
+  ClientHeight = 716
+  ClientWidth = 414
+  DesignerMasterStyle = 3
+  inherited Timer1: TTimer [0]
+  end
+  inherited Rectangle1: TRectangle [1]
+    Fill.Kind = None
+  end
+  inherited Label1: TLabel [2]
+  end
+end

@@ -1,0 +1,8 @@
+inherited Form2_iPhone55in: TForm2_iPhone55in
+  ClientHeight = 716
+  ClientWidth = 414
+  DesignerMasterStyle = 3
+  inherited Rectangle1: TRectangle
+    Fill.Kind = None
+  end
+end
